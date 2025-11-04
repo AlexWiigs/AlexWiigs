@@ -2,7 +2,7 @@
 
 - I'm currently working on MATLAB software which finds optimal designs of experiments for a large collection of regression models and criteria using CVX and PSO algorithms
 - In the future I'd like to also create optimal design software in Python
-- I'm addicted to boot.dec
+- I'm addicted to boot.dev, my neovim config, and disc golf
 
 <!--
 **AlexWiigs/AlexWiigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
