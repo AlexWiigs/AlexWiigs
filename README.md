@@ -1,7 +1,6 @@
 ## Hi, I'm Alex
 
 - I'm currently working on MATLAB software which finds optimal designs of experiments for a large collection of regression models and criteria using CVX and PSO algorithms
-- In the future I'd like to create the same optimal design software in Python
 
 When I'm not working on my research I am usually:
 
